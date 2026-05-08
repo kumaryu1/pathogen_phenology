@@ -1,6 +1,6 @@
 # Code for: Eco-evolutionary dynamics of pathogen epidemic timing in a seasonal environment
 
-This repository contains all simulation and analysis code needed to reproduce the numerical results and figures in the manuscript.
+This repository contains the simulation and analysis code needed to reproduce the numerical results and figures in the manuscript.
 
 ## Requirements
 
